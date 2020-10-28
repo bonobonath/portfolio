@@ -1,0 +1,36 @@
+:root{
+    --mainColor: #F3C4FB;
+    --secondaryColor: #C0FDFF;
+
+    --borderColor:#DB00B6;
+
+    --mainText:black;
+    --secondaryText: #4b5156;
+
+    --anchorColor: #6A00F4;
+    
+    --neonFont: 'Baloo Tammudu 2', cursive;
+    --neonColor:  rgb(232, 214, 255);
+    --neonShadow: 5px 0px 10px #6A00F4;
+
+    --background: linear-gradient(-45deg, #F4196Dff, #E5167Cff, #D5138Bff, #C6119Aff, #B70EA9ff, #A70BB8ff, #9808C7ff, #8906D6ff, #7B03E3, #6A00F4   );
+    --animation: gradient 4s ease infinite;
+    --backgroundSize: 400% 400%;
+
+    --backgroundNav: #D0D1FF;
+
+    --dotOne: #f33292;
+    --dotTwo: rgb(252, 214, 4);
+    --dotThree: #8bfa0b;
+
+    --borderHover : 8px solid rgba(106, 0, 244, .8);
+    --ShadowOne: 0px 3px 15px 5px rgba(200, 112, 255, .65);
+
+    --previewShadow: rgba(200, 112, 255, .65);
+    --previewBorder: border: 3.5px solid #6A00F4;
+    --previewColor: rgba(208, 209, 255, .7);
+
+    --skillsColor: rgba(200, 112, 255, .65);
+}
+
+
